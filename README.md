@@ -5,7 +5,7 @@
 
 **GUI用户交互界面首页**：用户选择加密或解密操作。
 
-![[1-1]](https://github.com/zzzxxxxzzz/S-AES/blob/main/image/1-1.png)
+![1-1](https://github.com/zzzxxxxzzz/S-AES/blob/main/image/1-1.png)
 
 **加密界面**：用户输入需要加密的明文（需要在二进制模式和ASCII模式中进行选择）以及相关的密钥，得到加密后的密文
 
