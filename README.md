@@ -5,7 +5,7 @@
 
 **GUI用户交互界面首页**：用户选择加密或解密操作。
 
-![[1-1]](https://github.com/zzzxxxxzzz/S-AES/blob/main/image/1-1.png)
+![[1-10]](https://github.com/zzzxxxxzzz/S-AES/blob/main/image/1-10.png)
 
 **加密界面**：用户输入需要加密的明文（需要在二进制模式和ASCII模式中进行选择）以及相关的密钥，得到加密后的密文
 
@@ -166,11 +166,11 @@
 生成密文：1111000011001011
 
 
-![[4-1-1]](https://github.com/zzzxxxxzzz/S-AES/blob/main/image/4-1-1.png)
+![[4-1-3]](https://github.com/zzzxxxxzzz/S-AES/blob/main/image/4-1-3.png)
 
 对密文进行解密：
 
-![[4-1-2]](https://github.com/zzzxxxxzzz/S-AES/blob/main/image/4-1-2.png)
+![[4-1-4]](https://github.com/zzzxxxxzzz/S-AES/blob/main/image/4-1-4.png)
 
 
 解密结果与明文完全一致。
@@ -1702,4 +1702,3 @@ scan.close();
 }  
 }
 ```
-
